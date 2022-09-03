@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="sanityTest" >
+ <listeners>
+<listener class-name="com.uk.listener.ListenerTest"/>
+</listeners>
+  <test name="Zoopla.LoginE2E" >
+    <classes>
+       <class name="com.zoopla.myrunner.MyRunner" />
+    </classes>
+  </test>
+</suite>

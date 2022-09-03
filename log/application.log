@@ -1,0 +1,54 @@
+2022-09-02 00:17:35,943 [main] INFO QA Champa Tester - User able to open any browsers.
+2022-09-02 00:17:36,061 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-09-02 00:17:36,070 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nandi\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 00:17:37,428 [main] INFO QA Champa Tester - User able to enter {string} URL
+2022-09-02 00:17:39,429 [main] INFO QA Champa Tester - User able to click  sign_in button
+2022-09-02 00:17:40,325 [main] INFO QA Champa Tester - User able to enter username
+2022-09-02 00:17:40,388 [main] INFO QA Champa Tester - User able to enter password
+2022-09-02 00:17:40,430 [main] INFO QA Champa Tester - User able to click login button
+2022-09-02 00:17:40,481 [main] INFO QA Champa Tester - User able to validate the title page {string} on the UI and LogOut
+2022-09-02 00:28:30,876 [main] INFO QA Champa Tester - User able to open any browsers.
+2022-09-02 00:28:30,997 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-09-02 00:28:31,006 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nandi\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 00:28:32,285 [main] INFO QA Champa Tester - User able to enter {string} URL
+2022-09-02 00:28:34,300 [main] INFO QA Champa Tester - User able to click  sign_in button
+2022-09-02 00:28:35,400 [main] INFO QA Champa Tester - User able to enter username
+2022-09-02 00:28:35,400 [main] INFO QA Champa Tester - User able to enter password
+2022-09-02 00:28:35,540 [main] INFO QA Champa Tester - User able to click login button
+2022-09-02 00:28:35,605 [main] INFO QA Champa Tester - User able to validate the title page {string} on the UI and LogOut
+2022-09-02 00:48:07,827 [main] INFO QA Champa Tester - User able to open any browsers.
+2022-09-02 00:48:07,831 [main] INFO QA Champa Tester - Userb Able to open google chrome
+2022-09-02 00:48:07,948 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-09-02 00:48:07,960 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nandi\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 00:48:09,300 [main] INFO QA Champa Tester - User able to enter {string} URL
+2022-09-02 00:48:11,237 [main] INFO QA Champa Tester - User able to click  sign_in button
+2022-09-02 00:48:12,362 [main] INFO QA Champa Tester - User able to enter username
+2022-09-02 00:48:12,363 [main] INFO QA Champa Tester - User able to enter password
+2022-09-02 00:48:12,499 [main] INFO QA Champa Tester - User able to click login button
+2022-09-02 00:48:12,566 [main] INFO QA Champa Tester - User able to validate the title page {string} on the UI and LogOut
+2022-09-02 00:48:58,961 [main] INFO QA Champa Tester - User able to open any browsers.
+2022-09-02 00:48:58,964 [main] INFO QA Champa Tester - User able to open edge browser
+2022-09-02 00:49:00,071 [main] INFO QA Champa Tester - User able to enter {string} URL
+2022-09-02 00:49:02,147 [main] INFO QA Champa Tester - User able to click  sign_in button
+2022-09-02 00:49:03,294 [main] INFO QA Champa Tester - User able to enter username
+2022-09-02 00:49:03,295 [main] INFO QA Champa Tester - User able to enter password
+2022-09-02 00:49:03,453 [main] INFO QA Champa Tester - User able to click login button
+2022-09-02 00:49:03,532 [main] INFO QA Champa Tester - User able to validate the title page {string} on the UI and LogOut
+2022-09-02 01:04:33,551 [main] INFO QA Champa Tester - User able to open any browsers.
+2022-09-02 01:04:33,555 [main] INFO QA Champa Tester - Userb Able to open google chrome
+2022-09-02 01:04:33,672 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-09-02 01:04:33,680 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nandi\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-02 01:04:35,044 [main] INFO QA Champa Tester - User able to enter {string} URL
+2022-09-02 01:04:37,430 [main] INFO QA Champa Tester - User able to click  sign_in button
+2022-09-02 01:04:38,613 [main] INFO QA Champa Tester - User able to enter username
+2022-09-02 01:04:38,614 [main] INFO QA Champa Tester - User able to enter password
+2022-09-02 01:04:38,748 [main] INFO QA Champa Tester - User able to click login button
+2022-09-02 01:04:38,818 [main] INFO QA Champa Tester - User able to validate the title page {string} on the UI and LogOut
+2022-09-02 01:05:35,791 [main] INFO QA Champa Tester - User able to open any browsers.
+2022-09-02 01:05:35,794 [main] INFO QA Champa Tester - User able to open edge browser
+2022-09-02 01:05:38,778 [main] INFO QA Champa Tester - User able to enter {string} URL
+2022-09-02 01:05:40,843 [main] INFO QA Champa Tester - User able to click  sign_in button
+2022-09-02 01:05:41,956 [main] INFO QA Champa Tester - User able to enter username
+2022-09-02 01:05:41,957 [main] INFO QA Champa Tester - User able to enter password
+2022-09-02 01:05:42,145 [main] INFO QA Champa Tester - User able to click login button
+2022-09-02 01:05:42,226 [main] INFO QA Champa Tester - User able to validate the title page {string} on the UI and LogOut
